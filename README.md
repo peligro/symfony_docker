@@ -4,13 +4,13 @@
 <p>
 Ejecutando archivo docker:
 <br/>
-`docker compose up -d`
+<code>docker compose up -d</code>
 </p>
 <hr />
 <p>
 Entrando a la terminal del proyecto:
 <br/>
-`docker exec -it 3c63aced339c <id_contenedor>`
+<code>docker exec -it 3c63aced339c <id_contenedor></code>
 </p>
 
 <hr />
